@@ -7,7 +7,7 @@ def index():
     return render_template('index.html')
 
 @app.route('/upload', methods=['GET'])
-def uploader():
+def upload_page():
     return render_template('upload.html')
 
 @app.route('/upload', methods=['POST'])
