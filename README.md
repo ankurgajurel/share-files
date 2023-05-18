@@ -1,5 +1,10 @@
 # Share Files
 
+![][image_ref_a32ff4ads]
+
+[image_ref_a32ff4ads]: ./assets/images/preview.png
+
+
 Share Files is a Flask app developed to tackle the problems faced while transfering files within the same network.
 
 ## Installation
